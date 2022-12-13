@@ -1,0 +1,9 @@
+.bookingsParent {
+    display: flex;
+    justify-content: center; 
+}
+
+.venueAndBandList {
+    display: flex;
+    justify-content: space-around;
+}
